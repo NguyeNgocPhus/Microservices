@@ -1,0 +1,16 @@
+[14-09-2022 14:53:29 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[14-09-2022 14:53:29 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[14-09-2022 14:53:29 Information] [Starting web host] at < ( at line )> <>
+[14-09-2022 14:53:30 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[14-09-2022 14:53:30 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[14-09-2022 14:53:30 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[14-09-2022 14:53:30 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[14-09-2022 14:53:30 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[14-09-2022 14:53:30 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[14-09-2022 14:53:51 Information] [HTTP GET /graphql/index.html responded 200 in 20.7010 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[14-09-2022 14:53:52 Information] [HTTP GET /graphql/bcp-config.json responded 200 in 33.9355 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[14-09-2022 14:53:52 Information] [HTTP POST /graphql responded 200 in 224.4006 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[14-09-2022 14:53:53 Information] [HTTP POST /graphql responded 200 in 64.7409 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[14-09-2022 14:53:56 Fatal] [GraphQLErrorFilter >> dsad <000999> with request id  +0 ms] at <D:\C#\Microservices\backend\src\Identity\Identity.Infrastructure\Filters\GraphQLErrorFilter.cs (OnError at line 27)> <>
+[14-09-2022 14:53:56 Information] [HTTP POST /graphql responded 200 in 850.5327 ms] at <D:\C#\Microservices\backend\src\Identity\Identity.Infrastructure\Filters\GraphQLErrorFilter.cs (OnError at line 27)> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[14-09-2022 15:02:31 Information] [Application is shutting down...] at <D:\C#\Microservices\backend\src\Identity\Identity.Infrastructure\Filters\GraphQLErrorFilter.cs (OnError at line 27)> <Microsoft.Hosting.Lifetime>

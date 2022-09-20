@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Identity.Application\Identity.Application.csproj" />
+      <ProjectReference Include="..\Identity.Core\Identity.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AppAny.HotChocolate.FluentValidation" Version="0.8.1" />
+      <PackageReference Include="AutoMapper" Version="11.0.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+      <PackageReference Include="FluentValidation" Version="11.1.0" />
+      <PackageReference Include="FluentValidation.AspNetCore" Version="11.1.2" />
+      <PackageReference Include="Google.Protobuf" Version="3.21.4" />
+      <PackageReference Include="Grpc.AspNetCore" Version="2.47.0" />
+      <PackageReference Include="HotChocolate.AspNetCore" Version="12.11.1" />
+      <PackageReference Include="HotChocolate.Stitching.Redis" Version="12.11.1" />
+      <PackageReference Include="MediatR" Version="10.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.7">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.7">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Nobisoft.Core.EventStore" Version="1.0.11" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.5" />
+      <PackageReference Include="RabbitMQ.Client" Version="6.4.0" />
+      <PackageReference Include="Serilog.Enrichers.GlobalLogContext" Version="2.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Handlers\Commands" />
+      <Folder Include="Handlers\Queries" />
+      <Folder Include="ProtobuffServices\Interfaces" />
+    </ItemGroup>
+    <ItemGroup>
+        <Protobuf Include="ProtobuffServices\Protos\*.proto" GrpcServices="Server" />
+        <Protobuf Update="ProtobuffServices\Protos\IdentityService.proto" GrpcServices="Server">
+        </Protobuf>
+    </ItemGroup>
+</Project>

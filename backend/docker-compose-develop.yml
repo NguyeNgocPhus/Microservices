@@ -1,0 +1,55 @@
+version: "3.8"
+
+services:
+#  server:
+#    container_name: server_product
+#    build:
+#      context: ./
+#      dockerfile: Dockerfile
+#    ports:
+#      - "5001:5000"
+#    networks:
+#      default:
+#        ipv4_address: 10.15.0.253
+#  mongodb:
+#    image: mongo:latest
+#    container_name: database_logger
+#    ports:
+#      - "27017:27017"
+#    restart: always
+  redis:
+    image: "redis:alpine"
+    container_name: "redis"
+    ports:
+      - "6379:6379"
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: redis-commander
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    ports:
+      - "8081:8081"
+    depends_on:
+      - redis
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    hostname: rabbitmq
+    volumes:
+      - /var/lib/rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+#  rabbitmq:
+#    image: rabbitmq:3-management
+#    container_name: rabbitmq
+#    hostname: rabbitmq
+#    volumes:
+#      - /var/lib/rabbitmq
+#    ports:
+#      - "5672:5672"
+#      - "15672:15672"
+#    env_file:
+#      - ./.env.development
+

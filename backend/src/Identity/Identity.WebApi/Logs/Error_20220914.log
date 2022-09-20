@@ -1,0 +1,1 @@
+[14-09-2022 14:53:56 Fatal] [GraphQLErrorFilter >> dsad <000999> with request id  +0 ms] at <D:\C#\Microservices\backend\src\Identity\Identity.Infrastructure\Filters\GraphQLErrorFilter.cs (OnError at line 27)> <>

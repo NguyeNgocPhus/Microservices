@@ -1,0 +1,259 @@
+[16-09-2022 09:31:51 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 09:31:51 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 09:31:51 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 09:31:52 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 09:31:52 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 09:31:52 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 09:31:52 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 09:31:52 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 09:31:52 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 09:32:00 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 09:32:00 Information] [HTTP GET / responded 404 in 0.7037 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:02 Information] [HTTP GET /graphql responded 301 in 17.6005 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:04 Information] [HTTP GET /graphql/bcp-config.json responded 200 in 22.7129 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:04 Information] [HTTP POST /graphql responded 200 in 90.4611 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:04 Information] [HTTP POST /graphql responded 200 in 89.9195 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:05 Information] [HTTP GET /graphql/static/media/FiraCode-Medium.1bc138a84f63b384c3f2.woff2 responded 200 in 27.7993 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:05 Information] [HTTP GET /graphql/static/media/codicon.ade705761eb7e702770d.ttf responded 200 in 31.1498 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 09:32:11 Information] [HTTP POST /graphql responded 200 in 4767.4888 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 10:57:52 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 10:57:52 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 10:57:52 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 10:57:52 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 10:57:52 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 10:57:52 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 10:57:52 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 10:57:52 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 10:57:52 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 10:59:05 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:00:11 Information] [HTTP POST /graphql responded 200 in 65958.0137 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:00:47 Information] [HTTP POST /graphql responded 200 in 9645.4740 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:02:28 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:02:28 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:02:28 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:02:28 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:02:28 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:02:28 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:02:28 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:02:28 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:02:28 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:05:22 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:05:22 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:05:22 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:05:23 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:05:23 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:05:23 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:05:23 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:05:23 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:05:23 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:07:29 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:08:07 Information] [HTTP POST /graphql responded 200 in 37844.0692 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:18:19 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:18:19 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:18:19 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:18:19 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:18:19 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:18:19 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:18:19 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:18:19 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:18:19 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:18:23 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:18:26 Information] [HTTP POST /graphql responded 200 in 3232.0438 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:20:42 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:20:42 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:20:42 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:20:42 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:20:42 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:20:42 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:20:42 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:20:42 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:20:42 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:20 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:21:20 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:21:20 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:21:21 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:21:21 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:21 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:21 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:21 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:21 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:45 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:21:45 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:21:45 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:21:46 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:21:46 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:46 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:46 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:46 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:21:46 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:23:59 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:23:59 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:23:59 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:24:00 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:24:00 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:24:00 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:24:00 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:24:00 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:24:00 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:25:28 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:25:28 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:25:28 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:25:29 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:25:29 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:25:29 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:25:29 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:25:29 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:25:29 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:02 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:28:02 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:28:03 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:28:03 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:28:03 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:03 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:03 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:03 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:03 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:10 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:28:12 Information] [HTTP POST /graphql responded 200 in 1829.0376 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:28:19 Information] [Application is shutting down...] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:29 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:28:29 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:28:29 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:28:30 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:28:30 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:30 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:30 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:30 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:30 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:28:34 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:35:38 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:35:38 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:35:38 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:35:39 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:35:39 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:35:39 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:35:39 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:35:39 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:35:39 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:35:42 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:35:49 Information] [HTTP POST /graphql responded 200 in 7419.4856 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 11:36:39 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:36:39 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 11:36:40 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 11:36:40 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 11:36:40 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:36:40 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:36:40 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:36:40 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:36:40 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 11:36:43 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 11:36:58 Information] [HTTP POST /graphql responded 200 in 15206.0814 ms] at < ( at line )> <Serilog.AspNetCore.RequestLoggingMiddleware>
+[16-09-2022 13:45:09 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:45:09 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:45:10 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 13:45:10 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 13:45:10 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:45:10 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:45:10 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:45:10 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:45:10 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:45:35 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 13:46:39 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:46:40 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:46:40 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 13:46:40 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 13:46:40 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:46:40 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:46:40 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:46:40 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:46:40 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:46:46 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 13:49:28 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:49:28 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 13:49:28 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 13:49:29 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 13:49:29 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:49:29 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:49:29 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:49:29 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:49:29 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 13:49:32 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:32:10 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:32:10 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:32:11 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:32:11 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:32:11 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:32:11 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:32:11 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:32:11 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:32:11 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:32:15 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:34:30 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:34:30 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:34:30 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:34:32 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:34:32 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:34:32 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:34:32 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:34:32 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:34:32 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:34:35 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:36:13 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:36:13 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:36:13 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:36:14 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:36:14 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:14 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:14 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:14 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:14 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:16 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:36:41 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:36:41 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:36:41 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:36:42 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:36:42 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:42 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:42 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:42 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:42 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:36:43 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:38:05 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:38:05 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:38:05 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:38:05 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:38:05 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:38:05 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:38:05 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:38:05 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:38:05 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:38:09 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:42:24 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:42:24 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:42:24 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:42:25 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:42:25 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:42:25 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:42:25 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:42:25 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:42:25 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:10 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:43:10 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:43:11 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:43:11 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:43:11 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:11 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:11 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:11 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:11 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:16 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>
+[16-09-2022 14:43:46 Verbose] [Discovering gRPC methods for Identity.Infrastructure.ProtobuffServices.Services.IdentityGrpcService.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:43:46 Verbose] [Added gRPC method 'ImportUser' to service 'Internal.Grpc.IdentityService'. Method type: "Unary", HTTP method: POST, route pattern: '/Internal.Grpc.IdentityService/ImportUser'.] at < ( at line )> <Grpc.AspNetCore.Server.Model.Internal.ServiceRouteBuilder>
+[16-09-2022 14:43:46 Information] [Starting web host] at < ( at line )> <>
+[16-09-2022 14:43:47 Warning] [Overriding address(es) 'http://localhost:5165'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.] at < ( at line )> <Microsoft.AspNetCore.Server.Kestrel>
+[16-09-2022 14:43:47 Information] [Now listening on: http://[::]:5175] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:47 Information] [Now listening on: http://[::]:5165] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:47 Information] [Application started. Press Ctrl+C to shut down.] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:47 Information] [Hosting environment: Development] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:43:47 Information] [Content root path: D:\C#\Microservices\backend\src\Identity\Identity.WebApi\] at < ( at line )> <Microsoft.Hosting.Lifetime>
+[16-09-2022 14:44:04 Warning] [Failed to determine the https port for redirect.] at < ( at line )> <Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware>

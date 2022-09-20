@@ -1,0 +1,17 @@
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\Identity.Application.deps.json
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\Identity.Application.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\Identity.Application.pdb
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\Identity.Core.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\Identity.Core.pdb
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.csproj.AssemblyReference.cache
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.AssemblyInfoInputs.cache
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.AssemblyInfo.cs
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.csproj.CoreCompileInputs.cache
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.csproj.CopyComplete
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\refint\Identity.Application.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\Identity.Application.pdb
+D:\C#\Microservices\backend\src\Identity\Identity.Application\obj\Debug\net6.0\ref\Identity.Application.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\C#\Microservices\backend\src\Identity\Identity.Application\bin\Debug\net6.0\MediatR.Contracts.xml

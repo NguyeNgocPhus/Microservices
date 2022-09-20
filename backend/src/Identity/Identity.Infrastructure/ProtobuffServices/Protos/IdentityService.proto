@@ -1,0 +1,16 @@
+syntax = "proto3";
+import "google/protobuf/wrappers.proto";
+option csharp_namespace = "Identity.Grpc.Internal.Services";
+package Internal.Grpc;
+
+
+service IdentityService {
+  rpc ImportUser(ImportUserRequest) returns (ImportUserResponse);
+}
+
+message ImportUserRequest{
+  int64 id = 1;
+}
+message ImportUserResponse{
+  string status = 1;
+}

@@ -1,0 +1,2 @@
+obj\Debug\net6.0\ProtobuffServices\Protos/Identity.cs \
+obj\Debug\net6.0\ProtobuffServices\Protos/IdentityGrpc.cs: ProtobuffServices/Protos/Identity.proto

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Dtos" />
+      <Folder Include="ViewModels" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="MediatR.Contracts, Version=1.0.1.0, Culture=neutral, PublicKeyToken=bb9a41a5e8aaa7e2">
+        <HintPath>..\..\..\..\..\..\.nuge\mediatr.contracts\1.0.1\lib\netstandard2.0\MediatR.Contracts.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

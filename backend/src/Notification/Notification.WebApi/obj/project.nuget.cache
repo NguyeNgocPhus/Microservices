@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xi0+/ruOb8hOyyJePSHXnFxbUUXKksFChm3mjTOnLyyPp2BmAhQav6X3EQuVWmuPVhfwfD6F1OBDO9J4vFWwvA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Microservices\\backend\\src\\Notification\\Notification.WebApi\\Notification.WebApi.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuge\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\.nuge\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\.nuge\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "D:\\.nuge\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "D:\\.nuge\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "D:\\.nuge\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

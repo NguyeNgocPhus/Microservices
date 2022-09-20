@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztx69SgiIOGSFASZp/uuhhcBIOzqVpaC4jk93ePqqcE3AFcOxJ+zL4PgMUQHT/L5mYIL/X3IsACspkIU9NWcmA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Microservices\\backend\\src\\Identity\\Identity.Application\\Identity.Application.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuge\\hotchocolate.abstractions\\12.11.1\\hotchocolate.abstractions.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.language\\12.11.1\\hotchocolate.language.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.language.syntaxtree\\12.11.1\\hotchocolate.language.syntaxtree.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.language.utf8\\12.11.1\\hotchocolate.language.utf8.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.language.visitors\\12.11.1\\hotchocolate.language.visitors.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.subscriptions\\12.11.1\\hotchocolate.subscriptions.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.types\\12.11.1\\hotchocolate.types.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.utilities\\12.11.1\\hotchocolate.utilities.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\hotchocolate.utilities.introspection\\12.11.1\\hotchocolate.utilities.introspection.12.11.1.nupkg.sha512",
+    "D:\\.nuge\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "D:\\.nuge\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "D:\\.nuge\\microsoft.extensions.objectpool\\3.1.4\\microsoft.extensions.objectpool.3.1.4.nupkg.sha512",
+    "D:\\.nuge\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "D:\\.nuge\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
+    "D:\\.nuge\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "D:\\.nuge\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "D:\\.nuge\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512",
+    "D:\\.nuge\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
